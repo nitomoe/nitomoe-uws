@@ -1,0 +1,3 @@
+[submodule "uSockets"]
+	path = uSockets
+	url = git@github.com:uNetworking/uSockets.git
