@@ -11,8 +11,10 @@ include_directories (${CMAKE_SOURCE_DIR}/include ${CMAKE_SOURCE_DIR}/uSockets/sr
 add_executable (${PROJECT_NAME}
     src/main.cpp
     src/Application.cpp
+    src/Element.cpp
     src/Env.cpp
     src/Log.cpp
+    src/views/Index.cpp
 )
 
 target_link_libraries (${PROJECT_NAME}

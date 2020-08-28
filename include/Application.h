@@ -5,6 +5,7 @@ class Application
 {
 private:
     int m_port;
+    int m_threadCount;
 public:
     Application();
     int run(int argc, char **argv);

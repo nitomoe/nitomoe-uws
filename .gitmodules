@@ -1,3 +1,6 @@
 [submodule "uSockets"]
 	path = uSockets
 	url = git@github.com:uNetworking/uSockets.git
+[submodule "see-phit"]
+	path = see-phit
+	url = git@github.com:rep-movsd/see-phit.git
